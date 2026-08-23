@@ -57,7 +57,7 @@
 		<dc:creator id="author">Herbert Gorman</dc:creator>
 		<meta property="file-as" refines="#author">Gorman, Herbert</meta>
 		<meta property="schema:alternateName" refines="#author">Herbert Sherman Gorman</meta>
-		<link href="https://en.wikipedia.org/wiki/Herbert_Gorman" refines="#author" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Herbert_S._Gorman" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n50052599.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
